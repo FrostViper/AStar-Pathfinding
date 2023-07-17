@@ -1,0 +1,5 @@
+Path From 1 to 29 Path= 29 16 15 14 13 12 11 10 8 7 6 5 4 3 2 1 cost= 298.0
+Path From 1 to 38 Path= 38 37 35 11 10 8 7 6 5 4 3 2 1 cost= 301.0
+Path From 11 to 1 Path= 1 2 3 23 22 21 20 19 18 17 16 15 14 13 12 11 cost= 309.0
+Path From 33 to 66 Path= 66 64 47 46 18 17 16 15 14 13 33 cost= 201.0
+Path From 58 to 43 Path= 43 40 38 44 53 52 51 50 49 48 58 cost= 208.0
